@@ -1,3 +1,6 @@
+# THIS REPO IS DEPRECATED DUE TO BREAKING CHANGES- PLEASE USE https://github.com/danmed/TasmoBackupV1
+# YOU WILL NEED TO ADD ALL YOUR DEVICES AGAIN AND CREATE NEW BACKUPS
+
 # TasmoBackup
 Backup the configs of all your Tasmota devices
 
